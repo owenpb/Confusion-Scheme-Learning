@@ -7,7 +7,7 @@ Here we explore the efficacy of various types of Quantum Monte Carlo datasets fo
 
 This repository contains two main notebooks:
 
-## [Methodology_and_Results](https://github.com/owenpb/Confusion-Scheme-Learning/blob/main/Methodology_and_Results.ipynb) 
+## [Methodology_and_Results.ipynb](https://github.com/owenpb/Confusion-Scheme-Learning/blob/main/Methodology_and_Results.ipynb) 
 This notebook contains an overview of the model and the learning by confusion technique, and presents a summary of the main results.
 
 ## [Confusion-Scheme-CNN-PyTorch.ipynb](https://github.com/owenpb/Confusion-Scheme-Learning/blob/main/Confusion-Scheme-CNN-PyTorch.ipynb) 
